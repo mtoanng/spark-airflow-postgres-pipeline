@@ -1,7 +1,10 @@
 🛒 E-commerce Analytics Pipeline (Olist Dataset)
 📖 Overview
-This project simulates a real-world Data Engineering pipeline for the Olist e-commerce dataset:
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_order_items_dataset.csv
+This project simulates a real-world Data Engineering pipeline for the Olist e-commerce dataset.
+(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).  
+Please download the CSV files and place them under `data/raw/` before running the pipeline:
+
+
 
 The pipeline demonstrates:
 - Batch data ingestion from raw CSV snapshots
